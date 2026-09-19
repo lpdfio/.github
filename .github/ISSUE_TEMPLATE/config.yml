@@ -1,0 +1,13 @@
+# Applies to every lpdfio repository without its own ISSUE_TEMPLATE folder,
+# which is all of them except lpdfio/lpdf. All issues are tracked there.
+blank_issues_enabled: false
+contact_links:
+  - name: Report a bug or request a feature
+    url: https://github.com/lpdfio/lpdf/issues/new/choose
+    about: All Lpdf issues, including SDK and VS Code extension issues, are tracked in one place, on lpdfio/lpdf.
+  - name: Question
+    url: https://github.com/lpdfio/lpdf/discussions
+    about: Ask in Discussions on lpdfio/lpdf, under Q&A.
+  - name: Security vulnerability
+    url: https://github.com/lpdfio/lpdf/security/policy
+    about: Report it privately, never in a public issue.
