@@ -27,7 +27,7 @@ Include what you can of:
 
 - The Lpdf engine, including license key verification, PDF encryption and
   permissions, and reading XML, fonts and images
-- The SDKs for JavaScript, .NET, PHP and Python
+- The SDKs for JavaScript, Python, Java, C# and PHP
 - The VS Code extension
 - The license portal at [my.codesense.dev](https://my.codesense.dev)
 
